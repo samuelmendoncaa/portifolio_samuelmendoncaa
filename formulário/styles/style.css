@@ -65,6 +65,12 @@ h2{
     text-align: center;
 }
 
+h4{
+    margin-top: 90px;
+    color: #333;
+    text-align: center;
+}
+
 p{
     font-family: 'Open Sans', Arial, Helvetica, sans-serif;
     text-align: justify;
@@ -76,6 +82,7 @@ p{
 }
 
 img{
+    width: 100px;
     margin-top: -205px;
     margin-left: 400px;
 }
@@ -85,9 +92,15 @@ img{
     margin-left: 420px;
 }
 
+.cursoemvideo{
+    width: 100px;
+    margin-left: 450px;
+}
+
 .contato{
     text-align: center;
 }
+
 
 a{
     text-decoration: none;
