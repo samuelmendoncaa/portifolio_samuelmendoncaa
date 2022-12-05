@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 
 body{
-    background-image: linear-gradient(to right, #F2E3D5, #3CA6A6, #026773);
+    background-image: linear-gradient(to right, #287474, #3CA6A6, #026773);
     font-family: 'Roboto', Helvetica, sans-serif;
 }
 
@@ -12,8 +12,42 @@ main{
     width: 600px;
     padding: 10px;
     margin: auto;
-    border-radius: 10px;
     box-shadow: 5px 5px 15px #01152691;
+}
+
+.main2{
+    margin-top: 25px;
+    
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    margin-bottom: 50px;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color: #111;
+}
+
+.ativa{
+    background-color: #04AA6D;
 }
 
 h1{
@@ -29,4 +63,19 @@ h2{
 p{
     font-family: 'Open Sans', Arial, Helvetica, sans-serif;
     text-align: justify;
+}
+
+.aprendizados{
+    text-align: left;
+    margin-right:300px;
+}
+
+img{
+    margin-top: -205px;
+    margin-left: 400px;
+}
+
+.css{
+    width: 95px;
+    margin-left: 420px;
 }
