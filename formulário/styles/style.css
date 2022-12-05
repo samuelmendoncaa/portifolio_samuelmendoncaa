@@ -8,6 +8,7 @@ body{
 }
 
 main{
+    border-radius: 15px;
     background-color: white;
     width: 600px;
     padding: 10px;
@@ -16,44 +17,48 @@ main{
 }
 
 .main2{
+    border-radius: 15px;
     margin-top: 25px;
     
 }
 
+/* NAV BAR*/
 ul {
+    border-radius: 30px;
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
     background-color: #333;
     margin-bottom: 50px;
-  }
+}
   
-  li {
+li {
     float: left;
-  }
-  
-  li a {
+}
+
+li a {
     display: block;
     color: white;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-  }
-  
-  /* Change the link color to #111 (black) on hover */
-  li a:hover {
+}
+
+li a:hover {
     background-color: #111;
 }
 
 .ativa{
-    background-color: #04AA6D;
+    background-color: #004864;
 }
+/* NAV BAR*/
 
 h1{
     color: #012E40;
     text-align: center;
 }
+
 
 h2{
     color: #024959;
@@ -79,3 +84,13 @@ img{
     width: 95px;
     margin-left: 420px;
 }
+
+.contato{
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    color: #004864;
+}
+
