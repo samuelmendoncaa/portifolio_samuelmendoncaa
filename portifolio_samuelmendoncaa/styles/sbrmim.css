@@ -13,7 +13,6 @@ main{
     width: 600px;
     padding: 30px;
     margin: auto;
-
     box-shadow: 5px 5px 15px #01152691;
 }
 
@@ -63,5 +62,3 @@ p{
     font-family: 'Open Sans', Arial, Helvetica, sans-serif;
     text-align: justify;
 }
-
-

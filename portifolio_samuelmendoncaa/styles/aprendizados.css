@@ -13,7 +13,6 @@ main{
     width: 600px;
     padding: 30px;
     margin: auto;
-
     box-shadow: 5px 5px 15px #01152691;
 }
 
@@ -62,6 +61,11 @@ h2{
 p{
     font-family: 'Open Sans', Arial, Helvetica, sans-serif;
     text-align: justify;
+    margin-right: 50%;
 }
 
-
+img{
+    margin-top: -110px;
+    width: 100px;
+    margin-left: 500px;
+}
