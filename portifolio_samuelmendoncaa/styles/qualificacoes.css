@@ -65,8 +65,13 @@ h2{
 }
 
 h3{
-    color: #001118;
-    text-align: left;
+    margin-top: 51px;
+    margin-left: 41px;
+}
+
+h4{
+    margin-top: -45px;
+    margin-left: 55px;
 }
 
 p{
@@ -74,4 +79,8 @@ p{
     text-align: justify;
 }
 
-
+img{
+    width: 100px;
+    margin-top: -72px;
+    margin-left: 447px;
+}
