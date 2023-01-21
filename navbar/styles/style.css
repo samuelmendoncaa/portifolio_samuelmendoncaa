@@ -65,6 +65,7 @@ form{
     background-color: #444;
     color: #fff;
     padding: 10px;
+    margin-right: 25px;
     cursor: pointer;
 }
   
@@ -76,5 +77,25 @@ form{
       display: block;
     }
   }
+
+/*Rodapé*/
+
+footer{
+  font-family: 'Open Sans', Arial, sans-serif;
+  text-align: center;
+  background-color: #333;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  color: #fff;
+  padding: 20px;
+}
+  
+  @media screen and (max-width: 600px) {
+    footer {
+      text-align: center;
+    }
+  }
+  
   
   
